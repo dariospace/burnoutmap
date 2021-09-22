@@ -1,5 +1,5 @@
 {
-  "name": "better_ally",
+  "name": "burnout_map",
   "version": "1.0.0",
   "description": "Interactive app to get information on discriminations and inequalities",
   "main": "index.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sweetyclem/better_ally"
+    "url": "https://github.com/dariospace/burnoutmap"
   },
-  "author": "Clementine Pirlot",
-  "license": "ISC",
+  "author": "Dario Space",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sweetyclem/better_ally/issues"
+    "url": "https://github.com/dariospace/burnoutmapissues"
   },
-  "homepage": "https://github.com/sweetyclem/better_ally#readme",
+  "homepage": "https://github.com/dariospace/burnoutmap#readme",
   "dependencies": {
     "@slack/events-api": "^2.3.3",
     "@slack/interactive-messages": "^1.6.0",
